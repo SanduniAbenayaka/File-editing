@@ -1,4 +1,4 @@
-with open("yukthi.txt","r+") as f:
+with open("filename.txt","r+") as f:
     lines =f.readlines()
     #pointer to top
     f.seek(0)
